@@ -12,14 +12,14 @@
 
 | Ressource | Lien | Description |
 |-----------|------|-------------|
-|  **Générateur d'images IA** | [Bing Image Creator](https://www.bing.com/images/create/ai-image-generator/faite-moi-un-texte-ai-red-team-en-rouge-et-tres-da/1-6a7383d60bfa4139acf6bd56d8882035?edt=1&thId=OIG3.8cgHcBIBrAMQmKmQaqB7) |  AI  |
-|  **Palette couleurs** | [Photoshoplus FR](https://www.photoshoplus.fr/couleurs/couleurs-noms-fr/) | Noms et codes couleurs |
-| **Édition photo** | [Picsart — iPhone](https://sourceforge.net/app/picsart-photo-video-editor/iphone/) | Montage photo / vidéo |
-|  **Suppression fond** | [Craiyon Background Remover](https://www.craiyon.com/en/background-remover/) | Retirer l'arrière-plan |
-|  **Mise en qualité HD** | [ImgUpscaler AI](https://imgupscaler.ai/super-resolution/) | Super-résolution images |
-|  **Convertisseur de font** | [FontMeme Arabic](https://fontmeme.com/arabic/) | Texte stylisé typographique |
+|  **Générateur d'images IA** | [Bing Image Creator](https://www.bing.com/images/create/ai-image-generator/faite-moi-un-texte-ai-red-team-en-rouge-et-tres-da/1-6a7383d60bfa4139acf6bd56d8882035?edt=1&thId=OIG3.8cgHcBIBrAMQmKmQaqB7) |  AI version 1 |
+|  **Palette couleurs** | [Photoshoplus FR](https://www.photoshoplus.fr/couleurs/couleurs-noms-fr/) | Choisis color |
+| **Édition photo** | [Picsart — iPhone](https://sourceforge.net/app/picsart-photo-video-editor/iphone/) | Montage photo |
+|  **Suppression fond** | [Craiyon Background Remover](https://www.craiyon.com/en/background-remover/) | Remove background |
+|  **Mise en qualité HD** | [ImgUpscaler AI](https://imgupscaler.ai/super-resolution/) | High quality |
+|  **Convertisseur de font** | [FontMeme Arabic](https://fontmeme.com/arabic/) | Texte style typography |
 |  **Image to url** | [Image to url](https://tools.corenexis.com/image/image-to-url) | Image to url |
-
+|  **Generate image** | [Generate image version 2](https://runwayml.com) | AI version 2 |
 </div>
 
 ---
