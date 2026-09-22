@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## ⚡ 𝑨 𝑷𝒓𝒐𝒑𝒐𝒔 𝒅𝒆 𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒕
+##                                           𝑨 𝑷𝒓𝒐𝒑𝒐𝒔 𝒅𝒆 𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒕
 
 > **AI RED TEAM** est un écosystème de cybersécurité offensive & défensive créé dans un style visuel **hacker tchadien**.
 > Rouge, noir, néon et matrix se mélangent pour offrir une expérience immersive.
