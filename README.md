@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://www.bing.com/images/create/ai-image-generator/faite-moi-un-texte-ai-red-team-en-rouge-et-tres-da/1-6a7383d60bfa4139acf6bd56d8882035?edt=1&thId=OIG3.8cgHcBIBrAMQmKmQaqB7" alt="AI RED TEAM Banner" width="720"/>
+<img src="https://www.bing.com/images/create/ai-image-generator/faite-moi-un-texte-ai-red-team-en-rouge-et-tres-da/1-6a7383d60bfa4139acf6bd56d8882035?edt=1&thId=OIG3.8cgHcBIBrAMQmKmQaqB7" alt="AI" width="720"/>
 
 </div>
 
